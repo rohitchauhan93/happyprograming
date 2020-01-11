@@ -1,9 +1,4 @@
-body {
-  font-family: Arial, sans-serif;
-  background: url(http://www.shukatsu-note.com/wp-content/uploads/2014/12/computer-564136_1280.jpg) no-repeat;
-  background-size: cover;
-  height: 100vh;
-}
+
 
 h1 {
   text-align: center;
@@ -54,8 +49,8 @@ h1 {
 }
 
 .popup {
-  margin: 10px auto;
-  padding: 20px;
+  margin: 5px auto;
+  padding: 15px;
   background: #fff;
   border-radius: 5px;
   width: 30%;
